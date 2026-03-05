@@ -6,7 +6,13 @@
 ## DIAGRAMA DE FLUJO
 #### EJERCICIO 1
 ![alt text](<FILTRO DE CONTRASEÑA/diagrama.png>)
+##### CAPTURA
+![alt text](<FILTRO DE CONTRASEÑA/screen.jpg>)
 #### EJERCICIO 2
 ![alt text](JUEGO/Diagrama.png)
+##### CAPTURA 
+![alt text](JUEGO/screen.jpg)
 #### EJERCICIO 3
 ![Diagrama](Diagrama3.png)
+##### CAPTURA 
+![alt text](<ADIVINA EL NUMERO/screen.jpg>)
