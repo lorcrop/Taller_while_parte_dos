@@ -5,7 +5,7 @@
 
 ## DIAGRAMA DE FLUJO
 #### EJERCICIO 1
-![alt text](<FILTRO DE CONTRASEÑA/diagrama.png>)
+![diagrama](diagrama.png)
 ##### CAPTURA
 ![alt text](<FILTRO DE CONTRASEÑA/screen.jpg>)
 #### EJERCICIO 2
